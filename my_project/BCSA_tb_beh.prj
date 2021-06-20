@@ -1,0 +1,7 @@
+verilog work "sel_unit.v"
+verilog work "ksa_4bit.v"
+verilog work "carryselect.v"
+verilog work "sum_block.v"
+verilog work "BCSA.v"
+verilog work "BCSA_tb.v"
+verilog work "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

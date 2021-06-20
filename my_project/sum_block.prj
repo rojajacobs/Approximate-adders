@@ -1,0 +1,4 @@
+verilog work "sel_unit.v"
+verilog work "ksa_4bit.v"
+verilog work "carryselect.v"
+verilog work "sum_block.v"

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/xilinx test/project/my_project_scsa/SCSA.xst" -ofn "D:/xilinx test/project/my_project_scsa/SCSA.syr" 
+xst -intstyle ise -ifn "D:/xilinx test/project/my_project_scsa/SCSA.xst" -ofn "D:/xilinx test/project/my_project_scsa/SCSA.syr" 

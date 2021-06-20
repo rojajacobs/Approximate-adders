@@ -1,0 +1,28 @@
+Command line:
+   SCSA_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49875
+
+Fri Jun 12 00:11:36 2020
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 5475.37 Meg
+
+ Total Signals          : 199
+ Total Nets             : 370
+ Total Signal Drivers   : 224
+ Total Blocks           : 19
+ Total Primitive Blocks : 13
+ Total Processes        : 230
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 499
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 4688.94 Meg
+
+Fri Jun 12 00:15:53 2020
+

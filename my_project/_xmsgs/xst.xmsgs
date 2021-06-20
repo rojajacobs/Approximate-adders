@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\xilinx test\project\my_project\BCSA.v" Line 30: Assignment to <arg fmt="%s" index="1">m5</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\xilinx test\project\my_project\BCSA.v" Line 31: Assignment to <arg fmt="%s" index="1">m8</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\xilinx test\project\my_project\BCSA.v" Line 32: Assignment to <arg fmt="%s" index="1">m11</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\xilinx test\project\my_project\sum_block.v" Line 30: Port <arg fmt="%s" index="1">p</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\xilinx test\project\my_project\sum_block.v" Line 30: Assignment to <arg fmt="%s" index="1">w5</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\xilinx test\project\my_project\BCSA.v" Line 35: Assignment to <arg fmt="%s" index="1">m2</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\xilinx test\project\my_project\BCSA.v" Line 36: Assignment to <arg fmt="%s" index="1">m5</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\xilinx test\project\my_project\BCSA.v" Line 37: Assignment to <arg fmt="%s" index="1">m8</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\xilinx test\project\my_project\BCSA.v" Line 38: Assignment to <arg fmt="%s" index="1">m11</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\BCSA.v</arg>&quot; line <arg fmt="%s" index="2">35</arg>: Output port &lt;<arg fmt="%s" index="3">Kout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\BCSA.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">Kout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\BCSA.v</arg>&quot; line <arg fmt="%s" index="2">37</arg>: Output port &lt;<arg fmt="%s" index="3">Kout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\BCSA.v</arg>&quot; line <arg fmt="%s" index="2">38</arg>: Output port &lt;<arg fmt="%s" index="3">Kout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\sum_block.v</arg>&quot; line <arg fmt="%s" index="2">30</arg>: Output port &lt;<arg fmt="%s" index="3">p</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\xilinx test\project\my_project\sum_block.v</arg>&quot; line <arg fmt="%s" index="2">30</arg>: Output port &lt;<arg fmt="%s" index="3">k</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">n1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">Kout</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+</messages>
+

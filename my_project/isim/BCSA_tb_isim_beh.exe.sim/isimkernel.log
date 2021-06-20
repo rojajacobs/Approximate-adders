@@ -1,0 +1,28 @@
+Command line:
+   BCSA_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49891
+
+Fri Jun 12 00:19:22 2020
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 5475.41 Meg
+
+ Total Signals          : 156
+ Total Nets             : 211
+ Total Signal Drivers   : 121
+ Total Blocks           : 19
+ Total Primitive Blocks : 13
+ Total Processes        : 123
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 324
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 4688.98 Meg
+
+Fri Jun 12 00:21:38 2020
+

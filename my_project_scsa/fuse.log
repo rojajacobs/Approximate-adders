@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/xilinx test/project/my_project_scsa/SCSA_tb_isim_beh.exe -prj D:/xilinx test/project/my_project_scsa/SCSA_tb_beh.prj work.SCSA_tb work.glbl 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/xilinx test/project/my_project_scsa/sel_unit.v" into library work
+Analyzing Verilog file "D:/xilinx test/project/my_project_scsa/ksa_4bit.v" into library work
+Analyzing Verilog file "D:/xilinx test/project/my_project_scsa/sum_block.v" into library work
+Analyzing Verilog file "D:/xilinx test/project/my_project_scsa/SCSA.v" into library work
+Analyzing Verilog file "D:/xilinx test/project/my_project_scsa/SCSA_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ksa_4bit
+Compiling module sel_unit
+Compiling module sum_block
+Compiling module SCSA
+Compiling module SCSA_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\SCSA_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 6 Verilog Units
+Built simulation executable D:/xilinx test/project/my_project_scsa/SCSA_tb_isim_beh.exe
+Fuse Memory Usage: 28116 KB
+Fuse CPU Usage: 1140 ms

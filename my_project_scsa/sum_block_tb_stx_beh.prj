@@ -1,0 +1,5 @@
+verilog isim_temp "sel_unit.v"
+verilog isim_temp "ksa_4bit.v"
+verilog isim_temp "sum_block.v"
+verilog isim_temp "sum_block_tb.v"
+verilog isim_temp "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"
